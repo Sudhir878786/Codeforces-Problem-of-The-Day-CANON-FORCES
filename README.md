@@ -1,5 +1,5 @@
 ﻿# Codeforces-Problem-of-The-Day
- ## [live site](https://codeforces-probem-of-the-day.netlify.app/)
+ ## [live site](https://canonforces.vercel.app/)
  ## Responsive across all the devices
 
 ![resp](https://user-images.githubusercontent.com/84634405/195657435-573cfab6-b954-48ee-b9ff-9bdc62d29a07.png)
